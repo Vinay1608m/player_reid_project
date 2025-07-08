@@ -137,7 +137,7 @@ Also ensure `ultralytics >= 8.0.0`.
 
 📧 Email: [vinay456m@gmail.com](mailto:vinay456m@gmail.com)  
 🔗 LinkedIn: [Vinay Manda](https://www.linkedin.com/in/vinay-manda-b6811725a/)  
-🔗 GitHub: [github.com/Vinay1608m](https://github.com/Vinay1608m)
+🔗 GitHub: [Vinay1608m](https://github.com/Vinay1608m)
 
 ---
 
